@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res" >
+            <file
+                name="ic_drawer"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/drawable-hdpi/ic_drawer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/drawable-mdpi/ic_drawer.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/drawable-xhdpi/ic_drawer.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_main"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/layout/fragment_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_one"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/layout/fragment_one.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_three"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/layout/fragment_three.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_two"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/layout/fragment_two.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="fragment_main" >Main fragment
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="fragment_three" >Fragment three
+                </string>
+                <string name="app_name" >Drawer Navigation Example
+                </string>
+                <string name="fragment_two" >Fragment two
+                </string>
+                <string name="drawer_open" >Open navigation drawer
+                </string>
+                <string name="drawer_close" >Close navigation drawer
+                </string>
+                <string name="fragment_one" >Fragment one
+                </string>
+            </file>
+            <file
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style name="DrawerMenu" >
+                    <item name="android:layout_width">
+match_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:typeface">
+monospace
+                    </item>
+                    <item name="android:background">
+#ff343434
+                    </item>
+                    <item name="android:textColor">
+#ff060606
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/src/debug/res" />
+    </dataSet>
+
+</merger>
