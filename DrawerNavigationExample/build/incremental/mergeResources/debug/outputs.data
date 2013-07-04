@@ -1,20 +1,20 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1372921251000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1372923910000 16029 80076f36d7bfc6b41898c31aa4f4a020c11b55be /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
 1372921252000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/values-v11/values.xml
 1372921252000 2837 9e638c2c25c95c33b197c30fb4993b5e02d9c260 /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/drawable-mdpi/ic_drawer.png
 1372921250000 582 2dd8e97eefb797bfdf1dd6f4d5e44c0f3a71541f /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/layout/fragment_one.xml
 1372921250000 1437 1bde1b6c2245ad1ab49434de3d65ab083049998c /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/values/values.xml
-1372921252000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1372923910000 8708 a5c446ca58066c49e5829687ece5f3f123383160 /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/drawable-xhdpi/ic_launcher.png
 1372921252000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/values-v14/values.xml
-1372921250000 968 18711be01e7eb8e10016ba8ebe97dd62c2602117 /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/layout/activity_main.xml
 1372921250000 583 13d8377a19a9d312859ac7b7f94bd8dd2b59c4e9 /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/layout/fragment_main.xml
+1372921250000 968 18711be01e7eb8e10016ba8ebe97dd62c2602117 /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/layout/activity_main.xml
 1372921250000 1056 82c73dd76cb3b5ab7df24bc96dd12c33029ed147 /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/drawable-xhdpi/ic_drawer.png
 1372921251000 582 f3cbb0cf807658b9331e0e47e49e19d1b1fff9b0 /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/layout/fragment_two.xml
 1372921251000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/menu/main.xml
 1372921252000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/values-sw720dp-land/values.xml
 1372921251000 584 b0a4d412996f575f4a71d09f8726db577383f9b2 /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/layout/fragment_three.xml
-1372921251000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1372923910000 6016 f1fc3bbd1b36d871acf5ed39e907ad646ed0bad5 /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1372923910000 3261 b6e854e8a54e73f60fba651965af2da072fbebb6 /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/drawable-mdpi/ic_launcher.png
 1372921250000 2842 2915590cad8972d031c7dc3bad767372f1e4a9be /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/drawable-hdpi/ic_drawer.png
-1372921250000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/wernergillmer/Dropbox/Code/GitHub/drawernavigationexample/DrawerNavigationExample/build/res/all/debug/drawable-mdpi/ic_launcher.png
