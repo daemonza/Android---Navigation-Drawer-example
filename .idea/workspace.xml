@@ -81,12 +81,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DrawerNavigationExample/src/main/java/com/gillman/drawernavigationexample/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="13" selection-start="662" selection-end="662" vertical-scroll-proportion="-0.3425775" vertical-offset="270" max-vertical-offset="1485">
+            <state line="19" column="13" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1485">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="device-2013-07-04-092404.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/device-2013-07-04-092404.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="device-2013-07-04-092428.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/device-2013-07-04-092428.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="device-2013-07-04-092511.png" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$USER_HOME$/device-2013-07-04-092511.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -229,7 +250,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="ExportedModule" value="DrawerNavigationExample" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Android_Keystore/keystore" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="4df0ae536c1b6f7b" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -393,7 +414,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="22" width="1279" height="774" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -405,13 +426,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32874617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32927817" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24979724" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32927817" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27493918" sideWeight="0.6712538" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27493918" sideWeight="0.6712538" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -492,9 +513,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DrawerNavigationExample/src/main/java/com/gillman/drawernavigationexample/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="662" selection-end="662" vertical-scroll-proportion="-0.3425775" vertical-offset="270" max-vertical-offset="1485">
+        <state line="19" column="13" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1485">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/device-2013-07-04-092404.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/device-2013-07-04-092428.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/device-2013-07-04-092511.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
